@@ -1,3 +1,3 @@
 # An introduction to C++
 
-Description
+Introducing variables and different beginner information in C++
